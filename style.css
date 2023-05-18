@@ -1,0 +1,41 @@
+
+
+h1{
+    
+    text-align: center;
+}
+
+.first-div{
+    border: 6px solid red;
+    width: 80%;
+    margin: 1rem auto;
+}
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.row{
+    margin: 0.26rem 0;
+}
+
+.input{
+    margin: 0.5rem auto;
+    
+}
+
+#input-text{
+    border: 2px solid rgb(3, 3, 3);
+    border-radius: 3px;
+    padding: 0.4rem 0.5rem;
+    font-size: 1.25rem;
+}
+
+.button{  
+    padding: 1rem 0;
+    width:3rem;
+}
